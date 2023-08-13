@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Suzette Flantua"
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+  sidebar:
+    pinned: true
+    align: center
+    style: "docked"
+    collapse-level: 1
+    contents:
+
+      - section: "Projects"
+        contents: 
+          - text: "Overview of projects" 
+            href: projects/index.qmd
+          - text: "PPF-Alpine"
+            href: projects/PPF-ALPINE/index.qmd
+          - text: "Global Human Impact"
+            href: projects/GLOBAL-HUMAN-IMPACT/index.qmd
+          - text: "Pantropical Dynamics"
+            href: projects/PANTROPICAL/index.qmd
+          - text: "Latin American Pollen Database"
+            href: projects/LAPD/index.qmd
+          - text: "Fossilpol"
+            href: projects/FOSSILPOL/index.qmd
+
+
+      - section: "My trackrecord"
+        contents:
+          - text: "List of publications"
+            href: about_me/list_of_publications.qmd
+          - text: "CV"
+            href: about_me/cv.qmd
+
+format:
+  html:
+    theme: slate
+    css: styles.css
+    toc: true

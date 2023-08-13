@@ -1,0 +1,70 @@
+---
+title: "Suzette G.A. Flantua"
+image: "profile_flantua.jpg"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/@SuzetteFlantua
+    - icon: google-scholar
+      text: GoogleScholar
+      href: https://scholar.google.nl/citations?user=nj45gacAAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/SFlantua
+    - icon: ORCID
+      text: ORCID
+      href: https://orcid.org/0000-0001-6526-3037
+    - icon: website
+      text: Website
+      href: https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua
+    - icon: researchgate
+      text: Researchgate
+      href: https://www.researchgate.net/profile/Suzette-Flantua?ev=hdr_xprf
+      
+---
+
+::: {#hero-heading}
+
+Hi! Welcome! I am Suzette Flantua (she/her).
+
+I have a background in paleoecology, biogeography, landscape ecology, and spatial analyses, and I enjoy integrating them all to gain new insights into the drivers of global mountain biodiversity.
+
+My research focuses on the responses of biodiversity to past and future climate change and humans, with a special emphasis on mountain systems and alpine biomes. 
+
+I am passionate about Open Science and Outreach, and interdisciplinary, intercultural research that is truly all inclusive. I firmly believe in the power of collaborative, safe, positive, and healthy work environments in academia.  
+
+### See more about me here:
+
+-   [My projects](projects/index.qmd)
+-   [My publications](about_me/list_of_publications.qmd) 
+-   [My CV](about_me/cv.qmd)
+
+
+### Contact
+
+Feel free to reach out to me at my [UiB email](https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua) or gmail with the naming of s.g.a.flantua
+
+
+### Affiliations
+
+1. [University of Bergen](https://www.uib.no/en), [Department of Biological Sciences](https://www.uib.no/en/bio), Ecological and Environmental Change Research Group - [EECRG](https://www.uib.no/en/rg/EECRG)
+
+2. Bjerknes Centre for Climate Research [BCCR](https://bjerknes.uib.no/en), Bergen
+
+Visiting address: [Thormøhlensgate 53A, 5006 Bergen, Norway](https://www.google.com/maps/place/Thorm%C3%B8hlensgate+53A,+5006+Bergen,+Norway)
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- University Logo -->
+  <img src="UiB_logo.jpg" alt="University Logo" width="150">
+
+  <!-- FTMS Logo -->
+  <img src="TMS_logo.jpg" alt="TMS Logo" width="150">
+</div>
+
+
+
+:::

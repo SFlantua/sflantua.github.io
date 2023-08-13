@@ -1,0 +1,59 @@
+---
+title: "Global Human Impact Project"
+categories: [project]
+image: "global_human_impact_logo.jpg"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 250px
+
+---
+
+::: {#hero-heading}
+
+Our mission is to uncover the profound relationship between human activity and ecological processes during the Holocene. Through meticulous data compilation and analysis, we aim to shed light on how past humans have shaped terrestrial ecosystems. From studying pollen records and climatic variations to detecting indicators of human presence, our project delves into the intricate interplay of nature and human influence during the Holocene. 
+
+#### The Team
+
+The Global Human Impact project runs by shared funding by different institutes as we are scattered across Europe leading this project. 
+
+Leading authors on the upcoming papers of the Global Human Impact project:
+
+Suzette Flantua, funded by [Trond Mohn Foundation](https://www.uib.no/en/research/115553/trond-mohn-foundation-tms-grants) and [University of Bergen](https://www.uib.no/en/bio)
+
+[Ondrej Mottl](https://ondrejmottl.github.io/), funded by [Czech Science Foundation (GACR)](https://gacr.cz/en/)
+
+[Vivian Felde](https://www.uib.no/en/persons/Vivian.Astrup.Felde), funded by European Research Council Humans on Planet Earth ([HOPE](https://www.uib.no/en/rg/EECRG/107501/hope)) project 
+
+-------------------------------------
+
+### Subprojects
+
+1) ### Humans On Planet Earth - HOPE
+
+The most important objective of the Global Human Impact project originate from the HOPE (Humans on Planet Earth) project which was 5.5-year European Research Council Advanced Grant project running from 1 January 2018 to the end of 2023. It addresses a critical question in Earth system science - what was the impact of prehistoric people on the biosphere and its dynamics?
+
+Though I am no longer affiliated to the HOPE project, I am still leading several publications and I will be posting all news on the Global Human Impact project on my own account.
+
+2) ### Anthropogenic pollen indicators: global food plants and Latin American human indicators in the pollen record 
+
+This upcoming publication (Flantua & Hooghiemstra in review) provides a comprehensive overview of human presence and impact through fossil pollen records on a global scale. By identifying and analyzing various human indicators, including cultivated food plants, the study contributes valuable insights into historical ecological changes and the evolution of human societies.
+
+3) ### Human impacts in Amazonia 
+
+In this Review, we compare rates of anthropogenic and natural environmental changes in the Amazon and South America and in the larger Earth system. We found that rates of anthropogenic processes that affect Amazonian ecosystems are up to hundreds to thousands of times faster than other natural climatic and geological phenomena. These anthropogenic changes each the scale of millions of square kilometers within just decades to centuries, as compared with millions to tens of millions of years for evolutionary, climatic, and geological processes.
+
+Here you can download the pdf: [Albert et al. 2023 Science](pdfs/Albert et al 2023 science.abo5003.pdf.pdf)
+
+
+--------------------------------------------------------------------------
+
+Logo: Created with Microsoft Bing.
+
+
+
+
+
+
+:::

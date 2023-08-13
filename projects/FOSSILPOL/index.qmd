@@ -1,0 +1,45 @@
+---
+title: "Fossilpol workflow"
+categories: [project]
+image: "Flantua_GEB_Fig1.jpg"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: link
+      text: website
+      href: https://hope-uib-bio.github.io/FOSSILPOL-website/
+    - icon: github
+      text: Github
+      href: https://github.com/HOPE-UIB-BIO/R-Fossilpol-package
+---
+
+::: {#hero-heading}
+
+The goal of the **FOSSILPOL** project is to make it easier for the interdisciplinary researcher to work with big fossil pollen databases. We developed a paper, workflow and R-package to process multiple fossil pollen records to create a comprehensive, standardised dataset compilation, ready for multi-record and multi-proxy analyses at various spatial and temporal scales.
+
+Our workflow is published in [Flantua et al. 2023 GEB](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13693) where we provide a step-by-step protocol accompanied by an R-workflow **FOSSILPOL** and corresponding {`RFossilpol`} R-package for enhanced reproducibility and transparency. 
+
+--------------------------------------------------------
+
+We are using **FOSSILPOL** for our subprojects in the **Global human impact project** and **Pantropical Dynamics**.
+
+Learn more about the workflow on the [project website](https://hope-uib-bio.github.io/FOSSILPOL-website/).
+
+--------------------------------------------------------
+
+### Installation
+
+You can install the development version of RFossilpol:package: from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("HOPE-UIB-BIO/R-Fossilpol-package")
+```
+
+<!-- badges: start -->
+[![Version](https://img.shields.io/github/v/release/HOPE-UIB-BIO/R-Fossilpol-package?label=Version&logo=github)](https://github.com/HOPE-UIB-BIO/R-Fossilpol-package/releases)
+<!-- badges: end -->
+
+:::

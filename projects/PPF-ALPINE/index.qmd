@@ -1,0 +1,33 @@
+---
+title: "PPF-Alpine"
+categories: [project]
+image: "ppf_logo.jpg"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 250px
+  links: 
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/PPFalpine
+    - icon: website
+      text: Website
+      href: https://mountainsinmotion.w.uib.no/
+  
+---
+
+::: {#hero-heading}
+
+ Since April-2022 I am leading the project called the **The Past, Present and Future of Alpine Biomes Worldwide** (PPF-Alpine), funded as a Startup Grant by Trond Mohn Stiftelse and the Deptartment of Biological Science, UiB. The aim of the project is to understand present-day alpine biodiversity from a long-term perspective and link expertise from biology, geology, geography, climatology, and glaciology to move our understanding of these ecosystems forward to better conserve them in the future.
+
+## The team
+
+[Julien Seguinot](https://mountainsinmotion.w.uib.no/) joined the project as a postdoc since April 2022 and he will focus on reconstructing paleo-glaciers of different mountains globally.
+
+[Eline Rentier](https://www.uib.no/en/persons/Eline.Rentier) and [Lotta Schultz](https://www.uib.no/en/persons/Lotta.Schultz) both joined the project as a PhD researchers since Jan 2023. Eline will work on modelling the spatiotemporal dynamics of global alpine biomes, while Lotta will focus on understanding the relationship between past environmental dynamics and present-day alpine biodiversity.
+
+Together with [John-Arvid Grytnes](https://www.uib.no/en/persons/John.Arvid.Grytnes), [Ondřej Mottl](https://ondrejmottl.github.io/), and [Camila Pachego-Riaño](https://lacapary.github.io/) we are the PPF-Alpine team in Bergen, accompanied by our international group of collaborators.
+
+Follow us by twitter @PPFalpine and check out our website for information on the project and the team: [PPF-Alpine](https://mountainsinmotion.w.uib.no/)
+:::

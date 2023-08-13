@@ -1,0 +1,47 @@
+---
+title: "RUtilpol"
+categories: [package, R]
+image: "wip_logo.png"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/HOPE-UIB-BIO/R-Ecopol-package
+---
+
+::: {#hero-heading}
+
+<!-- badges: start -->
+[![Version](https://img.shields.io/github/v/release/HOPE-UIB-BIO/R-Ecopol-package?label=Version&logo=github)](https://github.com/HOPE-UIB-BIO/R-Ecopol-package/releases)
+<!-- badges: end -->
+
+## Description
+
+The main purpose of {`RUtilpol`} is to provide utility (helper) functions.
+
+All functions can be grouped into 3 main categories:
+
+1. **Package development** - Function used within other packages (e.g., `RUtilpol::check_class()` for safety check, `RUtilpol::output_warning()` - for console message, `RUtilpol::replace_null_with_na()` for data wrangling ,…).
+
+2. **File management**() - Functions for saving and loading functions for better handling of files in large projects (see examples on [Github repository](https://github.com/HOPE-UIB-BIO/R-Utilpol-package) ).
+
+3. **Extraction of spatial information** - Functions to assign information to points based on a raster of shapefile (see examples [Github repository](https://github.com/HOPE-UIB-BIO/R-Utilpol-package)).
+
+## WARNING
+
+‼️This package is under active development. Therefore, the package is subject to change.‼️
+
+## Installation
+
+You can install the development version of RUtilpol from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("HOPE-UIB-BIO/R-Utilpol-package")
+```
+
+
+:::

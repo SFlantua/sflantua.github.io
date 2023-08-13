@@ -1,0 +1,71 @@
+{
+  "index.qmd": {
+    "index.html": "4ef5df4e"
+  },
+  "about_me/cv.qmd": {
+    "cv.html": "347c9b48"
+  },
+  "about_me/list_of_publications.qmd": {
+    "list_of_publications.html": "81a16d0c"
+  },
+  "about_template.qmd": {
+    "about_template.html": "806442ae"
+  },
+  "blog/post-with-code/index.qmd": {
+    "index.html": "ec8c59b7"
+  },
+  "blog/welcome/index.qmd": {
+    "index.html": "8aaaea14"
+  },
+  "blog.qmd": {
+    "blog.html": "729525e9"
+  },
+  "projects/FOSSILPOL/index.qmd": {
+    "index.html": "2dfe92fb"
+  },
+  "projects/GLOBAL-HUMAN-IMPACT/index.qmd": {
+    "index.html": "b0d66a7e"
+  },
+  "projects/index.qmd": {
+    "index.html": "22141099"
+  },
+  "projects/LAPD/index.qmd": {
+    "index.html": "7f29e79a"
+  },
+  "projects/PANTROPICAL/index.qmd": {
+    "index.html": "f8e66150"
+  },
+  "projects/pkg_1/index.qmd": {
+    "index.html": "3cc41dd2"
+  },
+  "projects/pkg_2/index.qmd": {
+    "index.html": "dbeeaae2"
+  },
+  "projects/PPF-ALPINE/index.qmd": {
+    "index.html": "c7c1beef"
+  },
+  "talks/index.qmd": {
+    "index.html": "83c30599"
+  },
+  "talks/talk_1/index.qmd": {
+    "index.html": "ea1c99e2"
+  },
+  "talks/talk_2/index.qmd": {
+    "index.html": "0e98672f"
+  },
+  "projects/HOPE/index.qmd": {
+    "index.html": "c610f0b6"
+  },
+  "projects/REcopol/index.qmd": {
+    "index.html": "fa88648b"
+  },
+  "projects/RFossilpol/index.qmd": {
+    "index.html": "596cf094"
+  },
+  "projects/RRatepol/index.qmd": {
+    "index.html": "84c5e4c6"
+  },
+  "projects/RUtilpol/index.qmd": {
+    "index.html": "96859b2f"
+  }
+}

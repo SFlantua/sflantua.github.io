@@ -1,0 +1,41 @@
+---
+title: "Latin American Pollen Database"
+categories: [project]
+image: "LAPD.jpg"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 250px
+  links: 
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/LAPollenDB
+    - icon: website
+      text: Website
+      href: https://www.latinamericapollendb.com/
+
+---
+
+::: {#hero-heading}
+
+ Since 2009 I have been leading the Latin American Pollen Database (LAPD) and I have been part of [Neotoma Paleoecology Database and Community](https://www.neotomadb.org/people). I've facilitated the upload of pollen records to [Neotoma](https://www.neotomadb.org/) from Latin America, and also from Europe and the Indo-Pacific region, together with several collaborators associated to the European Pollen Database and Neotoma.
+
+Check out the website here [Latin American Pollen Database](https://www.latinamericapollendb.com/) where you can also find an [interactive map](https://uvagis.maps.arcgis.com/apps/webappviewer/index.html?id=7403398bce354f1bb6a163ff0f3a4ea1) showing over 1400 fossil pollen records and 4600 modern pollen samples. I compiled this overview during my PhD: [Flantua et al. 2015](https://www.sciencedirect.com/science/article/pii/S0034666715001773)
+
+The LAPD initiated some time ago and here you can read more about its [history](https://www.latinamericapollendb.com/?page_id=14)
+
+
+-----------------------------------------------------------------------
+
+## Publications
+
+See here associated publications through time dedicated to the LAPD:
+
+1.  Marchant, R., Almeida, L., Behling, H., Berrío, J. C., Bush, M., Cleef, A., Duivenvoorden, J., Kappelle, M., De Oliveira, P., Teixeira de Oliveira-Filho, A., Lozano-García, S., Hooghiemstra, H., Ledru, M. P., Ludlow-Wiechers, B., Markgraf, V., Mancini, V., Paez, M., Prieto, A., Rangel, O. and Salgado-Labouriau, M. L.: Distribution and ecology of parent taxa of pollen lodged within the Latin American Pollen Database, Review of Palaeobotany and Palynology, 121(1), 1--75, 2002.
+2.  Marchant, R., Cleef, A., Harrison, S. P., Hooghiemstra, H., Markgraf, V., Van Boxel, J. H., Ager, T., Almeida, L., Anderson, R., Baied, C., Behling, H., Berrio, J. C., Burbridge, R., Björck, S., Byrne, R., Bush, M. B., Duivenvoorden, J., Flenley, J., De Oliveira, P. E., Van Geel, B., Graf, K., Gosling, W. D., Harbele, S., Van der Hammen, T., Hansen, B., Horn, S., Kuhry, P., Ledru, M.-P., Mayle, F. E., Leyden, B., Lozano-García, S., Melief, A. M., Moreno, P., Moar, N. T., Prieto, A., Van Reenen, G., Salgado-Labouriau, M. L., Schäbitz, F., Schreve-Brinkman, E. and Wille, M.: Pollen-based biome reconstructions for Latin America at 0, 6000 and 18 000 radiocarbon years ago, Climate of the Past, (5), 725--767, 2009.
+3.  **Flantua, S. G. A**., Hooghiemstra, H., Grimm, E. C., Behling, H., Bush, M. B., González-Arango, C., Gosling, W. D., Ledru, M.-P., Lozano-García, S., Maldonado, A., Prieto, A. R., Rull, V. and Van Boxel, J. H.: Updated site compilation of the Latin American Pollen Database, Review of Palaeobotany and Palynology, 223, 104--115, doi:10.1016/j.revpalbo.2015.09.008, 2015. Open access + Interactive map viewer.
+4.  **Flantua, S. G. A.**, Hooghiemstra, H., Vuille, M., Behling, H., Carson, J. F., Gosling, W. D., Hoyos, I., Ledru, M. P., Montoya, E., Mayle, F., Maldonado, A., Rull, V., Tonello, M. S., Whitney, B. S. and González-Arango, C.: Climate variability and human impact in South America during the last 2000 years: synthesis and perspectives from pollen records, Clim. Past, 2016. link
+5.  **Flantua, S.G.A.**, Blaauw, M. and Hooghiemstra, H.: 2016. Geochronological database and classification system for age uncertainties in Neotropical pollen records, Clim. Past, 2016. link
+
+:::

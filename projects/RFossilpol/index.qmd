@@ -1,0 +1,47 @@
+---
+title: "RFossilpol"
+categories: [package, R]
+image: "RFossilpol_logo.png"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - icon: link
+      text: website
+      href: https://hope-uib-bio.github.io/FOSSILPOL-website/
+    - icon: github
+      text: Github
+      href: https://github.com/HOPE-UIB-BIO/R-Fossilpol-package
+---
+
+::: {#hero-heading}
+<!-- badges: start -->
+[![Version](https://img.shields.io/github/v/release/HOPE-UIB-BIO/R-Fossilpol-package?label=Version&logo=github)](https://github.com/HOPE-UIB-BIO/R-Fossilpol-package/releases)
+<!-- badges: end -->
+
+{`RFossilpol`} R-package is a part of the **FOSSILPOL** project. 
+
+The goal of the **FOSSILPOL** project is to process multiple fossil pollen records to create a comprehensive, standardised dataset compilation, ready for multi-record and multi-proxy analyses at various spatial and temporal scales.
+
+## Package website
+
+Learn more about the project on the [project website](https://hope-uib-bio.github.io/FOSSILPOL-website/).
+
+
+## Cite as
+
+Flantua, S.G.A., Mottl., O., Felde, V.A., Bhatta, K.P., et al. 2023. A guide to the processing and standardization of global palaeoecological data for large-scale syntheses using fossil pollen. Global Ecology and Biogeography doi: [![](https://img.shields.io/badge/ddoi.org/10.1111/geb.13693-yellow.svg)](https://doi.org/10.1111/geb.13693)
+
+Leading developer and maintainer: [Ondrej Mottl](https://ondrejmottl.github.io/)
+
+## Installation
+
+You can install the development version of RFossilpol:package: from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("HOPE-UIB-BIO/R-Fossilpol-package")
+```
+
+:::

@@ -1,0 +1,60 @@
+---
+title: "Projects"
+description: |
+  Here an overview of my main current and past projects, and R-packages related to my publications.
+listing:
+  - id: active
+    max-description-length: 500
+    image-height: 200px
+    fields: [image, title, description]
+    contents: 
+      - PPF-ALPINE/index.qmd
+      - GLOBAL-HUMAN-IMPACT/index.qmd
+      - PANTROPICAL/index.qmd
+      - FOSSILPOL/index.qmd
+      - LAPD/index.qmd
+    sort: "false" 
+    type: grid
+    grid-item-border: false
+    
+  - id: packages
+    max-description-length: 500
+    image-height: 250px
+    fields: [image, title, description]
+    contents: 
+      - RRatepol/index.qmd
+      - RFossilpol/index.qmd
+      - REcopol/index.qmd
+      - RUtilpol/index.qmd
+    sort: "false"
+    type: grid
+    grid-item-border: false
+  
+  - id: past
+    max-description-length: 500
+    image-height: 200px
+    fields: [image, title, description]
+    contents: 
+      - HOPE/index.qmd
+    sort: "false" 
+    type: grid
+    grid-item-border: false
+
+---
+
+## Active Projects
+
+::: {#active}
+:::
+
+## Past Projects
+::: {#past}
+:::
+
+## R-packages 
+
+::: {#packages}
+:::
+
+
+

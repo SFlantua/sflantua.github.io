@@ -1,0 +1,33 @@
+{
+  "listingMap": {
+    "blog.qmd": [
+      "blog"
+    ],
+    "projects\\index.qmd": [
+      "project_1",
+      "project_2",
+      "pkg_1",
+      "pkg_2",
+      "PPF-ALPINE/index.qmd",
+      "GLOBAL-HUMAN-IMPACT/index.qmd",
+      "PANTROPICAL/index.qmd",
+      "LAPD/index.qmd",
+      "FOSSILPOL/index.qmd",
+      "HOPE/index.qmd",
+      "BIODYNAMICS/index.qmd",
+      "PPF-Alpine/index.qmd",
+      "RRatepol",
+      "FOSSILPOL",
+      "REcopol",
+      "RUtilpol",
+      "RRatepol/index.qmd",
+      "RFossilpol/index.qmd",
+      "REcopol/index.qmd",
+      "RUtilpol/index.qmd"
+    ],
+    "talks\\index.qmd": [
+      "talk_1",
+      "talk_2"
+    ]
+  }
+}

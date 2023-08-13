@@ -1,0 +1,207 @@
+---
+title: "Suzette Flantua"
+image: profile_flantua.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/SuzetteFlantua
+    - icon: ORCID
+      text: ORCID
+      href: https://orcid.org/0000-0001-6526-3037
+    - icon: github
+      text: Github
+      href: https://github.com/SFlantua
+    - icon: website
+      text: Website
+      href: https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua
+
+            
+---
+
+::: {#hero-heading}
+My main research interest is to understand what determines biodiversity in mountain regions, by studying the impact of climate dynamics at various time scales (past, present, future). I am particularly interested in the way how historical environmental factors (climate and geology) and humans influenced contemporary biodiversity patterns. I use a biogeographical and palaeoecological approach, taking advantage of recent developments in palaeoecological data availability (e.g. Neotoma) and landscape modelling (GIS). Most of my work has dealt with the tropics where I also have organized and participated in numerous field expeditions of the Northern and Central Andes, and savanna lowlands. I also supervise students and lecture in courses, organize scientific events, and take responsibility in committees. In addition, I am passionate about communicating my research to a broader audience through the use of video and talks about sustainability.
+
+------------------------------------------------------------------------
+
+## Education
+
+-   Doctor of Philosophy in Biology, University of Amsterdam, The Netherlands (2012-2017), Thesis 'Climate change and topography as drivers of Latin American biome dynamics' (23-06-2017). Main supervisor: Henry Hooghiemstra, co-advisor: John van Boxel.
+-   Master of Science (M.Sc.) in Biology, University of Amsterdam, The Netherlands (2004-2008). Thesis: Land use and land-cover changes in the sector II: Kamarata in the National Park Canaima, Venezuela (28-03-2008; magna cum laude). Main supervisor: John van Boxel.
+-   Bachelor of Science (B.Sc.) in Biology, University of Groningen, The Netherlands (2000-2004; cum honore).
+-   Pre-University education (VWO). De Klop, Utrecht, The Netherlands. (1992-1998). With majors in biology and mathematics
+
+------------------------------------------------------------------------
+
+## Professional experience
+
+CURRENT POSITION:
+
+Researcher and Project leader of 'Past, present, and future of alpine biomes worldwide', Department of Biological Sciences, University of Bergen, Norway (2022-2026). 4-year Starting Grant by the Trond Mohn Foundation (TMS) and the University of Bergen (UiB).
+
+------------------------------------------------------------------------
+
+PREVIOUS POSITIONS:
+
+-   Researcher, Department of Biological Sciences, University of Bergen, Norway (2020-2022). 5-year European Research Council Advanced Grant to Prof. H. John Birks.
+-   Postdoc, Department of Biological Sciences, University of Bergen, Norway (2018-2020). 5-year European Research Council Advanced Grant to Prof. H. John Birks.
+-   Spatial analyst & Geographical Information System (GIS) Consultant:
+    -   Royal Botanical Garden Kew, UK (2017-2018): Plants for life: impact of climate change on important plants for the ecosystem services of the páramos of Boyacá (Colombia)
+    -   University of Amsterdam (2017): GIS and database handling support to Dr. Daniel Kissling. Part-time.
+    -   4D Elements Consultores SAS, Colombia (2010-2015):
+        -   Conservation, restauration and sustainable use of ecosystem services in the National Parks of Chingaza and Sumapaz, and their influence zones between the páramos of Guerrero, Chingaza, Sumapaz, and the Eastern Cordilleras of Bogotá, Colombia
+        -   Generation of a proposal for a conservation vision of sustainable oil palm landscapes in the northern and eastern palm regions in Colombia
+        -   Organization of cartographic information, training and connectivity analysis in the interpretation of environmental determinants of three municipalities of the department of Vichada (Spring, Cumaribo and Puerto Carreño)
+        -   Development of an assessment of the implications of ecosystem services and biodiversity tradeoffs in a landscape management plan in the Colombian savanna highplains, including a proposal for ecosystem monitoring programs in agro-industrial landscapes
+        -   Protocol design for a compensation assessment at regional level in the department of the Atlantic, Colombia
+        -   Development of land cover map and maps of ecosystem interpretation and definition of the baseline for deforestation in the area of influence of the project NZD - Caquetá, Colombia
+        -   Assessment to update and reformulate the management plan of the National Park Chingaza, Colombia ▪ Georeferencing and mapping eight community councils of displaced Afro-Colombian communities nationwide
+        -   Plan for managing impacts on the agricultural sector caused by the flood emergencies in Cundinamarca and Boyacá, Colombia
+        -   Balancing spatial planning, sustainable biomass production and conservation: - A practical multi-stakeholder approach to spatial planning for climate mitigation according to the protocols of the Renewable Energy Directive (2009/28/EC) of the European Union
+        -   Development of the Conceptual Framework for the definition and implementation of the Ecological Network: Pilot-study in the Orinoco Basin, Colombia
+        -   Instituto de Hidrología, Meteorología, y Estudios Ambientales -- IDEAM, Colombia (2012) Scenarios of the evolution of glaciers based on the cartographic information of IDEAM', including the development of cartographic figures for the book Glaciares de Colombia -- más que montañas con hielo. (Spanish; 'Glaciers of Colombia -- More than mountains with snow')
+        -   EcoCiencia, Ecuador.(2010-2011). RAISG - Red Amazónica Environmental Geo-referenced Information ◦ Fundación Gaia Amazonas, Colombia (2011). Design of the Medicinal Plants Database of Indigenous Communities in the Rio Isana basin of Vaupes, Department Guinier, Colombia
+        -   Venezuelan Institute for Scientific Research (IVIC), Venezuela (2009). Biodiversity database of the Centre of Ecology (BioDiversa) ◦ University Simon Bolivar, Venezuela. (2006-2009).
+        -   Biodiversity conservation and sustainable use of natural resources of Pemón habitats in the Canaima National Park, Venezuela.
+        -   Risk Assessment in the reduction of habitats in the Canaima National Park, Venezuela: Vulnerability and tools for sustainable development
+        -   In the footsteps of the Ancestors: An assessment of indigenous land use and an application of participatory mapping in Kavanayén, Canaima National Park, Venezuela
+    -   Ecological consultant:
+        -   University of Amsterdam (2008-2010, parttime)
+            -   Pilot study of the geographical distribution of plant functional types in the Amazonian lowlands
+            -   Reviving the Latin American Pollen Database -- LAPD
+        -   Asesorías de Diseño Sostenible, Colombia (2012-2014, parttime)
+            -   Consultancy on the implementing of sustainable practices at company level, governance, projects, communities and other stakeholders
+            -   Development of seminars and online courses in topics such as sustainable landscape and project design, natural resources management, innovation & biotechnology, 'green cities', sustainable consumption \|
+
+------------------------------------------------------------------------
+
+## Awards
+
+-   2019: Best poster award from INQUA Congress meeting
+
+-   2017: Ernst Mayr Fellowship Award at Smithsonian Tropical Research Institute given to outstanding short term fellowship candidates.
+
+-   2010: Europe Prize for Innovation for Sustainable Development for the project 'Factors of risk in the reduction of habitats in the Canaima National Park: vulnerability and tools for sustainable development'.
+
+-   2008: Master thesis at University of Amsterdam awarded cum laude (distinction awarded to \~10% of MSc candidates based on average course scores and quality of thesis)
+
+------------------------------------------------------------------------
+
+## Teaching
+
+-   No teaching allowed during ERC project HOPE (2018-2022) and TMS-UiB (2022-2027) due to funding restrictions.
+
+-   2017: Undergraduate course 'Digital Earth', lectures and project supervision, University of Amsterdam \[student supervision and assessments, GIS assignments\]
+
+-   2016: Undergraduate course 'Biodiversity & Global Change', lectures and project supervision, University of Amsterdam \[covered introductory lecture into GIS, student supervision and assessments, GIS assignments\]
+
+-   2014, 2015: Undergraduate course 'Biodiversity & Global Change', guest lecture, University of Amsterdam
+
+-   2014, 2015, 2016: Undergraduate course 'Palaeoecology', co-teacher, University of Amsterdam \[covered lectures, student supervision and assessments, fieldwork assistant\]
+
+-   2012, 2013: Online courses on 'Introduction to Sustainability' and 'Sustainable landscape design'. Asesorías de Diseño Sostenible. Medellin, Colombia. \[covered course design, lectures\]
+
+-   2012: Postgraduate course 'Introduction to environmental information systems at national and international level, GIS and Remote Sensing', co-teacher, University de Tunja, Colombia. \[covered course design, lectures into GIS, paper discussions, student supervision & assessments\]
+
+-   2011: Postgraduate course 'Introduction to environmental information systems at national and international level, GIS and Remote Sensing', co-teacher, University de los Llanos, Colombia. \[covered course design, lectures into GIS, paper discussions, student supervision & assessments\]
+
+-   2000: English teacher (6 months). ESL Institute. Manizales, Colombia
+
+------------------------------------------------------------------------
+
+## Supervision
+
+ONGOING (CO-)SUPERVISION AND MENTORING:
+
+As main supervisor:
+
+1.  Julien Seguinot (Postdoc, University of Bergen, 2022-2025): 'Present, past and future of alpine biomes worldwide'.
+2.  Lotta Schultz (PhD, University of Bergen, 2023-2026): 'Present, past and future of alpine biomes worldwide'.
+3.  Eline Rentier (PhD, University of Bergen, 2023-2025): 'Present, past and future of alpine biomes worldwide'.
+
+As co-supervisor:
+
+-   Arnaud Gallou (PhD, University of Bergen, 2019-present): 'Elevational range distributions of plants around the world'. Co-supervised with John-Arvid Grytnes.
+
+As external PhD advisor:
+
+-   Anna Elizabeth George (PhD, University of Wisconsin-Madison, USA, 2020-2024)
+
+PAST (CO-)SUPERVISION AND MENTORING
+
+As main supervisor:
+
+1.  Midori Yajima (MSc, University of Bergen, 2019-2020): 'Human impact in the Northern and Central Andes as detected from fossil pollen records'
+2.  Reineke van Tol (MSc University of Amsterdam, 2017): 'Are vulnerable and endangered plants being conserved in tropical dry forests? A GIS study on prioritized plant species in Colombia'
+
+As co-supervisor:
+
+1.  Camila Pacheco (PhD, University of Bergen, 2019-2023): 'High elevation plant community responses to climate change: Synchronicity or out of pace?' Co-supervised with John-Arvid Grytnes.
+2.  Arthur Luikink (MSc University of Amsterdam, 2017): 'Sky islands: evolutionary isolation and connection'. Co-supervised with Henry Hooghiemstra.
+3.  Anna Schwarz (MSc, University of Amsterdam, 2014): 'Connectivity and isolation in the Puna of Peru and Bolivia and its effect on species distribution'. Co-supervised with Henry Hooghiemstra.
+
+------------------------------------------------------------------------
+
+## Outreach
+
+PUBLIC OUTREACH
+
+-   Open Day Amsterdam Science Park. Amsterdam, The Netherlands (2018). 'Sky islands: A time travel of the Andes Mountains'. Short movie.
+
+-   Youtube video Sky islands: A time travel of the Andes Mountains (\>7900 views), on the biogeographical history of the high Andean páramos during the last 1 million years (2017)
+
+-   Open Day Amsterdam Science Park. Amsterdam, The Netherlands (2016). 'Fieldwork through time: From microscopes to mountain tops'. Presentation.
+
+-   Forum for the regional planning of sustainable oil palm production in Colombia. Bogotá, Colombia. (2016). 'Landscape connectivity at a regional scale' (In Spanish). Presentation.
+
+
+-   New publications featured on websites of University of Amsterdam, Smithsonian Tropical Research Institute website, University of Bergen and Bjerknes Centre for Climate Research
+
+-   Papers featured in newspapers and scientific websites:
+    -   Science paper (2023) on Amazonian rates of change
+    -   Science paper (2021) on global rates of vegetation change
+    -   Journal of Biogeography paper (2019) on the biogeographic history of the Andean páramos,
+    -   Nature Geoscience paper (2018) on mountain biodiversity
+    -   Science paper (2015) on the closing of the Panama Isthmus.
+
+-   Radio interviews:
+    -   NPO: Interview about Science paper on Amazonian rates of change
+    -   BBC Inside Science. Human use of plants beyond the limits of history. (May 2021)
+    -   BBC Vroege Vogels. Birding and research in Norway (Dec 2020)
+    -   BBC Radio 4. Interview and report on fieldwork expeditions in Colombia. Boyacá Plants-for-life project. Royal Botanical Garden Kew, UK (Feb 2018)
+
+
+-----------------------------------------------------------------------------
+
+## Environmental film festivals
+
+'Sky islands: A time travel of the Andes Mountains' by C. Giraldo, S.G.A. Flantua, and H. Hooghiemstra [Youtube](https://www.youtube.com/watch?v=-Wcp18vBDK4)
+
+See more on the website of Media Design Artist [Catalina Giraldo](https://www.catalhinagiraldo.com/sky-islands)
+
+Our Sky Islands-visualization has been the Official Selection at international festivals screened in Angola, Australia, Brazil, Burkina, Colombia, Faso, Ethiopia, Hungary, Kenya, Malaysia, Namibia, Philippines, Rwanda, South Africa, United States.
+
+### Awards
+
+-   Honorable Mention in the first edition of #EcoBrasil Fest. 22-29 April 2021.
+
+-   Best Life Sciences Documentary of the #Sci-On Film Festival The Biggest Little Science + Fiction Film Festival in the World. 4-9 May 2021.
+
+-   Excellence #Nature Without Borders International Film Festival, Nassau, Delaware, United States. 6 June, 2021.
+
+------------------------------------------------------------------------
+
+## R-package development
+
+I have helped develop the R-package called:
+
+-   [RFossilpol](https://hope-uib-bio.github.io/FOSSILPOL-website/) as part of my recent publication in Global Ecology and Biogeography which you can find here: [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13693)
+
+while several R-packages are part of published or upcoming publications. 
+
+See more information here: [R-packages](/projects)
+
+:::

@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/talk_1/index.html",
+      "/talks/talk_2/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/PPF-ALPINE/index.html",
+      "/projects/GLOBAL-HUMAN-IMPACT/index.html",
+      "/projects/PANTROPICAL/index.html",
+      "/projects/FOSSILPOL/index.html",
+      "/projects/LAPD/index.html",
+      "/projects/RRatepol/index.html",
+      "/projects/RFossilpol/index.html",
+      "/projects/REcopol/index.html",
+      "/projects/RUtilpol/index.html",
+      "/projects/HOPE/index.html"
+    ]
+  }
+]

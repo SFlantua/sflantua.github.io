@@ -10,15 +10,15 @@ website:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   sidebar:
-    pinned: true
-    align: center
-    style: "docked"
+    pinned: false
+    align: left
+    style: "floating"
     collapse-level: 1
     contents:
 
       - section: "Projects"
-        contents: 
-          - text: "Overview of projects" 
+        contents:
+          - text: "Overview of projects"
             href: projects/index.qmd
           - text: "PPF-Alpine"
             href: projects/PPF-ALPINE/index.qmd
@@ -41,6 +41,6 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: litera
     css: styles.css
     toc: true

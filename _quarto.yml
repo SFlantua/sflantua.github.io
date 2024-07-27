@@ -7,17 +7,15 @@ website:
   title: "Suzette Flantua"
 
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    right: "This page is built with [Quarto](https://quarto.org/)."
 
-  sidebar:
-    pinned: false
-    align: left
-    style: "floating"
-    collapse-level: 1
-    contents:
-
-      - section: "Projects"
-        contents:
+  # Custom header for top navigation
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        menu:
           - text: "Overview of projects"
             href: projects/index.qmd
           - text: "PPF-Alpine"
@@ -30,10 +28,8 @@ website:
             href: projects/LAPD/index.qmd
           - text: "Fossilpol"
             href: projects/FOSSILPOL/index.qmd
-
-
-      - section: "My trackrecord"
-        contents:
+      - text: "My track record"
+        menu:
           - text: "List of publications"
             href: about_me/list_of_publications.qmd
           - text: "CV"

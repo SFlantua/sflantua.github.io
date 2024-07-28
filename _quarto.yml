@@ -4,17 +4,20 @@ project:
 
 website:
   page-navigation: true
+  search: true
+  page-footer:
+    center:
+      - text: "@Suzette Flantua 2024"
   title: "Suzette Flantua"
 
-  page-footer:
-    right: "This page is built with [Quarto](https://quarto.org/)."
+
 
   # Custom header for top navigation
   navbar:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Projects"
+      - text: "My Projects"
         menu:
           - text: "Overview of projects"
             href: projects/index.qmd
@@ -28,15 +31,20 @@ website:
             href: projects/LAPD/index.qmd
           - text: "Fossilpol"
             href: projects/FOSSILPOL/index.qmd
-      - text: "My track record"
+      - text: "My Publications"
         menu:
           - text: "List of publications"
             href: about_me/list_of_publications.qmd
           - text: "CV"
             href: about_me/cv.qmd
+      - text: "Outreach"
+        href: outreach.qmd
+      - text: "Get in touch"
+        href: collaborate.qmd
+
 
 format:
   html:
-    theme: litera
+    theme: darkly
     css: styles.css
     toc: true

@@ -118,7 +118,7 @@ ONGOING (CO-)SUPERVISION AND MENTORING:
 
 As main supervisor:
 
-1.  Julien Seguinot (Postdoc, University of Bergen, 2022-2025): 'Present, past and future of alpine biomes worldwide'.
+1.  
 2.  Lotta Schultz (PhD, University of Bergen, 2023-2026): 'Present, past and future of alpine biomes worldwide'.
 3.  Eline Rentier (PhD, University of Bergen, 2023-2025): 'Present, past and future of alpine biomes worldwide'.
 
@@ -136,6 +136,7 @@ As main supervisor:
 
 1.  Midori Yajima (MSc, University of Bergen, 2019-2020): 'Human impact in the Northern and Central Andes as detected from fossil pollen records'
 2.  Reineke van Tol (MSc University of Amsterdam, 2017): 'Are vulnerable and endangered plants being conserved in tropical dry forests? A GIS study on prioritized plant species in Colombia'
+3. Julien Seguinot (Postdoc, University of Bergen, 2022-2025): 'Present, past and future of alpine biomes worldwide'.
 
 As co-supervisor:
 
@@ -151,12 +152,11 @@ PUBLIC OUTREACH
 
 -   Open Day Amsterdam Science Park. Amsterdam, The Netherlands (2018). 'Sky islands: A time travel of the Andes Mountains'. Short movie.
 
--   Youtube video Sky islands: A time travel of the Andes Mountains (\>7900 views), on the biogeographical history of the high Andean páramos during the last 1 million years (2017)
+-   Youtube video Sky islands: A time travel of the Andes Mountains (\>1000 views), on the biogeographical history of the high Andean páramos during the last 1 million years (2017)
 
 -   Open Day Amsterdam Science Park. Amsterdam, The Netherlands (2016). 'Fieldwork through time: From microscopes to mountain tops'. Presentation.
 
 -   Forum for the regional planning of sustainable oil palm production in Colombia. Bogotá, Colombia. (2016). 'Landscape connectivity at a regional scale' (In Spanish). Presentation.
-
 
 -   New publications featured on websites of University of Amsterdam, Smithsonian Tropical Research Institute website, University of Bergen and Bjerknes Centre for Climate Research
 
@@ -176,23 +176,6 @@ PUBLIC OUTREACH
 
 -----------------------------------------------------------------------------
 
-## Environmental film festivals
-
-'Sky islands: A time travel of the Andes Mountains' by C. Giraldo, S.G.A. Flantua, and H. Hooghiemstra [Youtube](https://www.youtube.com/watch?v=-Wcp18vBDK4)
-
-See more on the website of Media Design Artist [Catalina Giraldo](https://www.catalhinagiraldo.com/sky-islands)
-
-Our Sky Islands-visualization has been the Official Selection at international festivals screened in Angola, Australia, Brazil, Burkina, Colombia, Faso, Ethiopia, Hungary, Kenya, Malaysia, Namibia, Philippines, Rwanda, South Africa, United States.
-
-### Awards
-
--   Honorable Mention in the first edition of #EcoBrasil Fest. 22-29 April 2021.
-
--   Best Life Sciences Documentary of the #Sci-On Film Festival The Biggest Little Science + Fiction Film Festival in the World. 4-9 May 2021.
-
--   Excellence #Nature Without Borders International Film Festival, Nassau, Delaware, United States. 6 June, 2021.
-
-------------------------------------------------------------------------
 
 ## R-package development
 

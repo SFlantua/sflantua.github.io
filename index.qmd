@@ -29,22 +29,14 @@ about:
 
 ::: {#hero-heading}
 
-Hi! Welcome! I am Suzette Flantua (she/her).
+Hi! Welcome!
 
-I have a background in paleoecology, biogeography, landscape ecology, and spatial analyses, and I enjoy integrating them all to gain new insights into the drivers of global mountain biodiversity.
+I am a researcher at the University of Bergen and I have a background in biogeography, biogeography, landscape ecology, and spatial analyse. I enjoy integrating them all to gain new insights into the drivers of global mountain biodiversity over short and long time scales.
 
-My research focuses on the responses of biodiversity to past and future climate change and humans, with a special emphasis on mountain systems and alpine biomes. 
-
-I am passionate about Open Science and Outreach, and interdisciplinary, intercultural research that is truly all inclusive. I firmly believe in the power of collaborative, safe, positive, and healthy work environments in academia.  
-
-### See more about me here:
-
--   [My projects](projects/index.qmd)
--   [My publications](about_me/list_of_publications.qmd) 
--   [My CV](about_me/cv.qmd)
+My research focuses on the responses of biodiversity to past and future climate change and humans, with a special emphasis on mountain systems and alpine biomes. Take a look at my currently running [PPF-Alpine](https://mountainsinmotion.w.uib.no/) project!
 
 
-### Contact
+### Contact me!
 
 Feel free to reach out to me at my [UiB email](https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua) or gmail with the naming of s.g.a.flantua
 

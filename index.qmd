@@ -31,7 +31,7 @@ about:
 
 Hi! Welcome!
 
-I am a researcher at the University of Bergen and I have a background in biogeography, biogeography, landscape ecology, and spatial analyse. I enjoy integrating them all to gain new insights into the drivers of global mountain biodiversity over short and long time scales.
+I am a researcher at the University of Bergen and I have a background in biogeography, paleoecology, landscape ecology, and spatial analyses. I enjoy integrating them all to gain new insights into the drivers of global mountain biodiversity over short and long time scales.
 
 My research focuses on the responses of biodiversity to past and future climate change and humans, with a special emphasis on mountain systems and alpine biomes. Take a look at my currently running [PPF-Alpine](https://mountainsinmotion.w.uib.no/) project!
 

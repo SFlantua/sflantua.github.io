@@ -7,7 +7,7 @@ title: "Outreach and Popular Science"
 
 ## 3D Visualizations
 
-* **The Biogeographical History of the high elevational paramos of the Northern Andes?** 
+* **The Biogeographical History of the high elevational paramos of the Northern Andes** 
 <br>
 Sky islands - The flickering Connectivity System of the paramos of the Northern Andes. See our [Youtube](https://www.youtube.com/watch?v=-Wcp18vBDK4&t) video!
 <br>
@@ -17,6 +17,22 @@ Sky islands - The flickering Connectivity System of the paramos of the Northern 
   style = "margin-right: 10px;" width="100%">
   <div>
 <figure>
+
+--------------------------------------------------------------------------------
+
+## Book for children and young minds
+
+* **La Minienciclopedia del Páramo** 
+<br>
+The book for children about the paramos!. See our [Youtube](https://www.youtube.com/watch?v=GTfWao6xBCM) video and our [website] (https://laenciclopediadelparamo.com/en/)!
+<br>
+<div style="text-align: center;">
+<figure>
+  <img src = "Mini-encyclopedia.jpg"
+  style = "margin-right: 10px;" width="100%">
+  <div>
+<figure>
+
 
 --------------------------------------------------------------------------------
 

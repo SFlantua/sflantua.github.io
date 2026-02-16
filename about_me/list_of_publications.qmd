@@ -21,7 +21,7 @@ editor: visual
 
 -   **Flantua, S.G.A.**, Hooghiemstra, H., **2023**. Anthropogenic pollen indicators: Global food plants and Latin American human indicators in the pollen record. ***Nature Scientific Data*** 10, 721. [Link](https://www.nature.com/articles/s41597-023-02613-1).
 
--   Gallou, A., Jump, A.S., Lynn, J.S., Field, R., Irl, S.D.H., Steinbauer, M.J., Beierkuhnlein, C., Chen, J.-C., Chou, C.-H., Hemp, A., Kidane, Y., König, C., Kreft, H., Naqinezhad, A., Nowak, A., Nuppenau, J.-N., Trigas, P., Price, J.P., Roland, C.A., Schweiger, A.H., Weigelt, P., **Flantua, S.G.A.\***, Grytnes, J.-A.\*, **2023**. Diurnal temperature range as a key predictor of plants\' elevation ranges globally*. **Nature Communications***14, 7890. [Link](https://www.nature.com/articles/s41467-023-43477-8)*.* (\**senior authors*)
+-   Gallou, A., Jump, A.S., Lynn, J.S., Field, R., Irl, S.D.H., Steinbauer, M.J., Beierkuhnlein, C., Chen, J.-C., Chou, C.-H., Hemp, A., Kidane, Y., König, C., Kreft, H., Naqinezhad, A., Nowak, A., Nuppenau, J.-N., Trigas, P., Price, J.P., Roland, C.A., Schweiger, A.H., Weigelt, P., **Flantua, S.G.A.\***, Grytnes, J.-A.\*, **2023**. Diurnal temperature range as a key predictor of plants' elevation ranges globally*. **Nature Communications***14, 7890. [Link](https://www.nature.com/articles/s41467-023-43477-8)*.* (\**senior authors*)
 
 -   Birks, H.J.B., Bhatta, K.P., Felde, V.A., **Flantua, S.G.A.**, Mottl, O., Haberle, S.G., Herbert, A., Hooghiemstra, H., Birks, H.H., Grytnes, J.-A., Seddon, A.W.R., **2023**. Approaches to pollen taxonomic harmonisation in Quaternary palynology. ***Review of Palaeobotany and Palynology*** 319, 104989. https://doi.org/10.1016/j.revpalbo.2023.104989. [Link](https://doi.org/10.1016/j.revpalbo.2023.104989).
 

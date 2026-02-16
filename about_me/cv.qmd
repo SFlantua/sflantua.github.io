@@ -6,9 +6,6 @@ about:
   template: trestles
   image-shape: rectangle
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/SuzetteFlantua
     - icon: ORCID
       text: ORCID
       href: https://orcid.org/0000-0001-6526-3037
@@ -40,7 +37,7 @@ My main research interest is to understand what determines biodiversity in mount
 
 CURRENT POSITION:
 
-Researcher and Project leader of 'Past, present, and future of alpine biomes worldwide', Department of Biological Sciences, University of Bergen, Norway (2022-2026). 4-year Starting Grant by the Trond Mohn Foundation (TMS) and the University of Bergen (UiB).
+Senior Researcher and Project leader of Mountains-in-Motion-lab, Department of Biological Sciences, University of Bergen, Norway.
 
 ------------------------------------------------------------------------
 
@@ -48,6 +45,7 @@ PREVIOUS POSITIONS:
 
 -   Researcher, Department of Biological Sciences, University of Bergen, Norway (2020-2022). 5-year European Research Council Advanced Grant to Prof. H. John Birks.
 -   Postdoc, Department of Biological Sciences, University of Bergen, Norway (2018-2020). 5-year European Research Council Advanced Grant to Prof. H. John Birks.
+- Fellow Smithsonian Tropical Research Institute, Panama (2017). Assembling the origin of hyper-diverse Andean sky islands: a novel phylogeographic approach. 
 -   Spatial analyst & Geographical Information System (GIS) Consultant:
     -   Royal Botanical Garden Kew, UK (2017-2018): Plants for life: impact of climate change on important plants for the ecosystem services of the páramos of Boyacá (Colombia)
     -   University of Amsterdam (2017): GIS and database handling support to Dr. Daniel Kissling. Part-time.
@@ -80,6 +78,8 @@ PREVIOUS POSITIONS:
 
 ## Awards
 
+-	 2024: The collaborative work behind The Mini-encyclopedia of the Páramo earned an award for the “Best Collaborative Editorial Project”, by the Ministry of Culture in Colombia.
+
 -   2019: Best poster award from INQUA Congress meeting
 
 -   2017: Ernst Mayr Fellowship Award at Smithsonian Tropical Research Institute given to outstanding short term fellowship candidates.
@@ -92,57 +92,68 @@ PREVIOUS POSITIONS:
 
 ## Teaching
 
--   No teaching allowed during ERC project HOPE (2018-2022) and TMS-UiB (2022-2027) due to funding restrictions.
+- Note: No teaching allowed during ERC project HOPE (2018-2022) and TMS-UiB (2022-2027) due to funding restrictions in Researcher position. 
+- 2025: Participant in UPED659B Leveraging Large Language Models and Artificial Intelligence for Teaching and Learning (15 hours). Approved course in Program of University Pedagogy, University of Bergen. In progress.
+- 2025: Participant in UPED600E 25V Course ‘Introduction to Teaching at University and Course Design. Approved course (24 h) in Program of University Pedagogy, University of Bergen.
+- 2024: Participant in UPED600EB ´Introduction to Teaching and Course Design´. Approved course (18h) in Program of University Pedagogy, University of Bergen. (partial overlap UPED600E).
+- 2023: Participant in ´Effective Supervision´, Bjerkness Centre for Climate Research, approved course (15h) in Program of University Pedagogy, University of Bergen.
+- 2022: Participant in ´Leadership for Group Leaders Course´. EMBO Lab Leadership. Heidelberg, Germany. 
+- 2017: Teaching assistant in Undergraduate course ‘Digital Earth’ (5 ECTS, lectures and project supervision, University of Amsterdam [student supervision and assessments, GIS assignments]
+- 2016: Teaching assistant in Undergraduate course (5 ECTS) ‘Biodiversity & Global Change’, lectures and project supervision, University of Amsterdam [covered introductory lecture into GIS, student supervision and assessments, GIS assignments]
+- 2014, 2015: Guest lecturer in Undergraduate course (5 ECTS) ‘Biodiversity & Global Change’, University of Amsterdam
+- 2014, 2015, 2016: Co-teacher in Undergraduate course (6 ECTS) ‘Palaeoecology’, University of Amsterdam [covered lectures, student supervision and assessments, fieldwork assistant] 
+- 2012, 2013:  Coordinator of Online courses on ‘Introduction to Sustainability’ (16h) and ‘Sustainable landscape design’ (16h). Asesorías de Diseño Sostenible. Medellin, Colombia. [covered 20h course design, lectures] 
+- 2012: Co-coordinator of Postgraduate course (2 ECTS) ‘Introduction to environmental information systems at national and international level, GIS and Remote Sensing’, University de Tunja, Colombia. [covered course design, designed educational material and computer work, lectures on GIS, paper discussions, student supervision & assessments]
+- 2011: Co-coordinator of Postgraduate course (2 ECTS) ‘Introduction to environmental information systems at national and international level, GIS and Remote Sensing’, University de los Llanos, Colombia. [covered course design, lectures into GIS, paper discussions, student supervision & assessments]
+- 2000: English teacher (6 months, full time). ESL Institute. Manizales, Colombia
 
--   2017: Undergraduate course 'Digital Earth', lectures and project supervision, University of Amsterdam \[student supervision and assessments, GIS assignments\]
-
--   2016: Undergraduate course 'Biodiversity & Global Change', lectures and project supervision, University of Amsterdam \[covered introductory lecture into GIS, student supervision and assessments, GIS assignments\]
-
--   2014, 2015: Undergraduate course 'Biodiversity & Global Change', guest lecture, University of Amsterdam
-
--   2014, 2015, 2016: Undergraduate course 'Palaeoecology', co-teacher, University of Amsterdam \[covered lectures, student supervision and assessments, fieldwork assistant\]
-
--   2012, 2013: Online courses on 'Introduction to Sustainability' and 'Sustainable landscape design'. Asesorías de Diseño Sostenible. Medellin, Colombia. \[covered course design, lectures\]
-
--   2012: Postgraduate course 'Introduction to environmental information systems at national and international level, GIS and Remote Sensing', co-teacher, University de Tunja, Colombia. \[covered course design, lectures into GIS, paper discussions, student supervision & assessments\]
-
--   2011: Postgraduate course 'Introduction to environmental information systems at national and international level, GIS and Remote Sensing', co-teacher, University de los Llanos, Colombia. \[covered course design, lectures into GIS, paper discussions, student supervision & assessments\]
-
--   2000: English teacher (6 months). ESL Institute. Manizales, Colombia
 
 ------------------------------------------------------------------------
 
 ## Supervision
 
-ONGOING (CO-)SUPERVISION AND MENTORING:
-
+SUPERVISION (Ongoing):
 As main supervisor:
 
-1.  
-2.  Lotta Schultz (PhD, University of Bergen, 2023-2026): 'Present, past and future of alpine biomes worldwide'.
-3.  Eline Rentier (PhD, University of Bergen, 2023-2025): 'Present, past and future of alpine biomes worldwide'.
+1. Diana Vásquez (Postdoc, University of Bergen, 2025-present): On the origin of Andean plant species: the role of climate change, historical connectivity and plant dispersal in producing hyperdiverse floras’.
+2. Lotta Schultz (PhD, University of Bergen, 2023-present): ‘Assessing the legacy effect of past connectivity dynamics on present-day global alpine biodiversity’. 
+3. Eline Rentier (PhD, University of Bergen, 2023-present): ‘Spatiotemporal reconstructions and
+connectivity modelling of alpine biomes during the late Quaternary’. 
+4. Augusto Cezar Lima Do Nascimento (Research Assistant, University of Bergen, 2024-present): ‘The Global Mountain Paleoglacier Atlas: A Last Glacial Maximum Synthesis’.
+5. Sjur Barndon (Research Assistant, University of Bergen, 2025-present): ‘The use of Artificial intelligence and Machine Learning for paleoglacier simulations in mountains’.
+6. Jonathan Soulé (Senior Technician, University of Bergen, 2025-present): ‘The use of audio-visual tools to increase public awareness and engagement into climate change research’. 
+7. Liliya Kirilova Draganova (MSc, University of Bergen, 2024-present): ‘How does reproductive ecology vary across key species in the highly diverse Paramos of Ecuador?’. Co-supervised with Ørjan Totland.
+
 
 As co-supervisor:
 
--   Arnaud Gallou (PhD, University of Bergen, 2019-present): 'Elevational range distributions of plants around the world'. Co-supervised with John-Arvid Grytnes.
+1. Arnaud Gallou (PhD, University of Bergen, 2019-present): ‘Elevational range distributions of plants around the world’. Co-supervised with John-Arvid Grytnes.
+2. Adrian E. George (PhD, University of Wisconsin-Madison, USA, 2020-Sept/2025): ‘A pantropical assessment of ecoclimate sensitivity based on fossil pollen records’. Co-supervised with Jack Williams.
 
-As external PhD advisor:
-
--   Anna Elizabeth George (PhD, University of Wisconsin-Madison, USA, 2020-2024)
-
-PAST (CO-)SUPERVISION AND MENTORING
-
+SUPERVISION (past):
 As main supervisor:
 
-1.  Midori Yajima (MSc, University of Bergen, 2019-2020): 'Human impact in the Northern and Central Andes as detected from fossil pollen records'
-2.  Reineke van Tol (MSc University of Amsterdam, 2017): 'Are vulnerable and endangered plants being conserved in tropical dry forests? A GIS study on prioritized plant species in Colombia'
-3. Julien Seguinot (Postdoc, University of Bergen, 2022-2025): 'Present, past and future of alpine biomes worldwide'.
+1. Raul Pérez Prats (MSc, University of Barcelona, Feb-July/2025): ‘Mountains under change: Artificial intelligence and machine learning for future ecosystem predictions’
+2. Remko Pape (BSc, Avans University of Applied Sciences, 2024): ‘A deep dive into the topographic and paleoclimate characteristics of mountains worldwide’.
+3. Julien Seguinot (Postdoc, University of Bergen, 2022-2023): ‘Global reconstruction of mountain glaciers since the last glacial cycle’. 
+4. Midori Yajima (MSc, University of Bergen, 2019-2020): ‘Human impact in the Northern and Central Andes as detected from fossil pollen records’
+5. Reineke van Tol (MSc, University of Amsterdam, 2017): ‘Are vulnerable and endangered plants being conserved in tropical dry forests? A GIS study on prioritized plant species in Colombia’
+6. Jesse R. Zondervan (BSc, Imperial College London, July-Aug 2016): ‘Population dynamics and choice of settlement in Peru from carbon-14 dated archaeological sites’.
+7. Seringe Huisman (MSc internship, University of Amsterdam, 2016): ‘Review of the Latin American Pollen Database’.
+8. Mayke Nieuwkerk (MSc internship, University of Amsterdam, 2016): ‘Review of the Latin American Pollen Database’.
+9. Nina Witteveen (MSc internship, University of Amsterdam, 2016): ‘Review of the Latin American Pollen Database’.
+10. Johnny Vogel. (MSc internship, University of Amsterdam, 2016): ‘Review of the Latin American Pollen Database’.
+11. Susana Velásquez (BSc internship, University los Andes, Colombia, 2014): ‘Review of the Latin American Pollen Database’.
+12. Jessica Moreno (BSc internship, University los Andes, Colombia, 2014): ‘Review of the Latin American Pollen Database’.
 
 As co-supervisor:
 
-1.  Camila Pacheco (PhD, University of Bergen, 2019-2023): 'High elevation plant community responses to climate change: Synchronicity or out of pace?' Co-supervised with John-Arvid Grytnes.
-2.  Arthur Luikink (MSc University of Amsterdam, 2017): 'Sky islands: evolutionary isolation and connection'. Co-supervised with Henry Hooghiemstra.
-3.  Anna Schwarz (MSc, University of Amsterdam, 2014): 'Connectivity and isolation in the Puna of Peru and Bolivia and its effect on species distribution'. Co-supervised with Henry Hooghiemstra.
+1.	Sara Lien (MSc, University of Bergen, 2024-2025): ‘Mapping and analysis of the snowbed habitat and its decline in Finse’. Co-supervised with John-Arvid Grytnes.
+2.	Helene Røstbø Treeck (MSc, University of Bergen, , 2024-2025): ‘Thermal lags in the Sunnhordlandsfjella mountains’. Co-supervised with John-Arvid Grytnes.
+3.	L. Camila Pacheco (PhD, University of Bergen, 2019-2023): ‘High elevation plant community responses to climate change: Synchronicity or out of pace?’ Co-supervised with John-Arvid Grytnes.
+4.	Arthur Luikink (MSc, University of Amsterdam, 2017): ‘Sky islands: evolutionary isolation and connection’. Co-supervised with Henry Hooghiemstra.
+5.	Anna Schwarz (MSc, University of Amsterdam, 2014): ‘Connectivity and isolation in the Puna of Peru and Bolivia and its effect on species distribution’. Co-supervised with Henry Hooghiemstra.
+
 
 ------------------------------------------------------------------------
 
@@ -177,14 +188,5 @@ PUBLIC OUTREACH
 -----------------------------------------------------------------------------
 
 
-## R-package development
-
-I have helped develop the R-package called:
-
--   [RFossilpol](https://hope-uib-bio.github.io/FOSSILPOL-website/) as part of my recent publication in Global Ecology and Biogeography which you can find here: [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13693)
-
-while several R-packages are part of published or upcoming publications. 
-
-See more information here: [R-packages](/projects)
 
 :::

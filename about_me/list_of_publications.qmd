@@ -9,6 +9,22 @@ editor: visual
 
 ### Peer reviewed publications and chapters
 
+-   Lima, A. C. N., Dulfer, H. E., Hughes, A. L. C., Margold, M., Barr, I., Laabs, B., & **Flantua,
+    S. G. A.** (accepted) Mountain Glacier Extents of the Last Glacial Maximum. *Nature
+    Scientific Data.*
+
+-   Mottl, O., Gaiser, F., Šímová, I., & **Flantua, S. G. A.** (2026). VegVault database: Linking global paleo-, and neo-vegetation data with functional traits and abiotic drivers. *Nature Scientific Data,* [Link](https://doi.org/10.1101/2025.01.31.635213).
+
+-   Groeve, J. D., Rijsdijk, K. F., Rentier, E., **Flantua, S. G. A.**, & Norder, S. **2025.** Temporal Altitudinal Biogeographic Shifts (TABS): R package for reconstructing biogeographic shifts in terrestrial and marine habitats over time. ***Frontiers of Biogeography*** (*ARPHA Preprints*, *6*, e151900. [Link](https://biogeography.pensoft.net/article/151677/)
+
+-   Rentier, E. S., Mottl, O., Pacheco-Riaño, L. C., Schultz, L., Seguinot, J., Wiersma, A. T., Grytnes, J.-A., & **Flantua, S. G. A.** **2025.** Global variability in LGM cooling amongst paleoclimate datasets affects biome reconstructions in mountains. ***Frontiers of Biogeography***, *18*, e135871. [Link](https://doi.org/10.21425/fob.18.135871)
+
+-   Hooghiemstra, H., & **Flantua, S. G. A.** **2025**. World list of Quaternary pollen and spore atlases, an update. *Review of Palaeobotany and Palynology*, *343*, 105404. [Link](https://doi.org/10.1016/j.revpalbo.2025.105404)
+
+-   Grimm, E.C., Bradshaw, R.H.W., Brewer, S., **Flantua, S.G.A.**, Giesecke, T., Goring, S., Lézine, A.-.M., Takahara, H. and Williams, J.W. **2025**. Databases and their application. In: Elias, S. (eds.) ***Encyclopedia of Quaternary Science***, 3rd Edition. vol. 4, pp. 376-386.
+
+-   Hooghiemstra, H. Berrio J-C, Torres, V., Bogotá-A, R.B:, Groot, M., Hoorn, C., **Flantua, S.G.A.** **2025**. Pollen records of Northern South America: Quaternary history. ***Encyclopedia of Quaternary Science***. 3rd Edition, Elsevier.
+
 -   Herbert, A. V., Haberle, S. G., **Flantua, S. G. A.**, Mottl, O., Blois, J. L., Williams, J. W., George, A., and Hope, G. S., **2024**. The Indo--Pacific Pollen Database -- a Neotoma constituent database, ***Climate of the Past*** 20, 2473--2485. [L](https://doi.org/10.5194/cp-20-2473-2024,%202024)[ink](https://cp.copernicus.org/articles/20/2473/2024/)
 
 -   Schafstall, N.B., Benito, X., Brugger, S.O., Davies, A.L., Ellis, E., Pla-Rabes, S., Bonk, A., Bunting, J., Chambers, F.M., **Flantua, S.G.A.**, Fletcher, T.L., Greiser, C., Hernandez, A., Keenan, B., Koren, G., Marcisz, K., Montoya, E., Quesada-Román, A., Ratnayake, A.S., Sabatier, P., Smol, J.P., Suárez-Mozo, Y.S., **2024**. Ten simple rules to bridge ecology and palaeoecology by publishing outside palaeo-ecological journals. ***PLOS ONE***. [Link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012487).

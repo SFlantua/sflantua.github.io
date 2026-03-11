@@ -9,13 +9,13 @@ editor: visual
 
 ### Peer reviewed publications and chapters
 
--   Lima, A. C. N., Dulfer, H. E., Hughes, A. L. C., Margold, M., Barr, I., Laabs, B., & **Flantua,
-    S. G. A.** (accepted) Mountain Glacier Extents of the Last Glacial Maximum. *Nature
-    Scientific Data.*
+-   Lima, A. C. N., Dulfer, H. E., Hughes, A. L. C., Margold, M., Barr, I., Laabs, B., & **Flantua, S. G. A.** (2026) Mountain Glacier Extents of the Last Glacial Maximum. *Nature Scientific Data,* [Link](https://www.nature.com/articles/s41597-026-06841-z).
 
--   Mottl, O., Gaiser, F., Šímová, I., & **Flantua, S. G. A.** (2026). VegVault database: Linking global paleo-, and neo-vegetation data with functional traits and abiotic drivers. *Nature Scientific Data,* [Link](https://doi.org/10.1101/2025.01.31.635213).
+-   Barndon, S., Lima, A.C., D.M. Chandler, A.T. Wiersma, E.S. Rentier, R.P. Prats, S.G.A. Flantua (2026, Preprint) Global-scale modelling of mountain glacier evolution since the last interglacial.
 
--   Groeve, J. D., Rijsdijk, K. F., Rentier, E., **Flantua, S. G. A.**, & Norder, S. **2025.** Temporal Altitudinal Biogeographic Shifts (TABS): R package for reconstructing biogeographic shifts in terrestrial and marine habitats over time. ***Frontiers of Biogeography*** (*ARPHA Preprints*, *6*, e151900. [Link](https://biogeography.pensoft.net/article/151677/)
+-   l, O., Gaiser, F., Šímová, I., & **Flantua, S. G. A.** (2026). VegVault database: Linking global paleo-, and neo-vegetation data with functional traits and abiotic drivers. *Nature Scientific Data,* [Link](https://doi.org/10.1101/2025.01.31.635213).
+
+-   Groeve, J. D., Rijsdijk, K. F., Rentier, E., **Flantua, S. G. A.**, & Norder, S. **2025.** Temporal Altitudinal Biogeographic Shifts (TABS): R package for reconstructing biogeographic shifts in terrestrial and marine habitats over time. ***Frontiers of Biogeography***, [Link](https://biogeography.pensoft.net/article/151677/)
 
 -   Rentier, E. S., Mottl, O., Pacheco-Riaño, L. C., Schultz, L., Seguinot, J., Wiersma, A. T., Grytnes, J.-A., & **Flantua, S. G. A.** **2025.** Global variability in LGM cooling amongst paleoclimate datasets affects biome reconstructions in mountains. ***Frontiers of Biogeography***, *18*, e135871. [Link](https://doi.org/10.21425/fob.18.135871)
 

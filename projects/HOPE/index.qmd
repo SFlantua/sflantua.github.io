@@ -8,9 +8,6 @@ about:
   image-shape: round
   image-width: 250px
   links:
-    - icon: link
-      text: website
-      href: https://www.uib.no/en/rg/EECRG/107501/hope
     - icon: github
       text: Github
       href: https://github.com/HOPE-UIB-BIO
@@ -24,8 +21,6 @@ about:
 
 1. To test the recently proposed hypothesis that prehistoric human impact about 6000 years ago altered the fundamental ecological processes which determine the assembly, ecological structure, and dynamics of terrestrial plant communities. Proponents of this hypothesis argue that the use of past 'natural experiments' and of the past as an analogue to the uncertain future of Earth in the 'Anthropocene' is a 'flawed strategy' and uniformitarianism should be discarded. As much of Earth system science relies on such 'natural experiments' and depends on the concept of uniformitarianism, it is clearly imperative to test critically and robustly this hypothesis and related arguments and far-reaching conclusions.
 2. To test the associated hypothesis that the inter-relationships (correlations) between estimates of ecosystem properties such as turnover, taxonomic and functional diversity, and co-occurrence patterns changed during the Holocene in response to prehistoric human activities.
-
-Check out the [project website](https://www.uib.no/en/rg/EECRG/107501/hope) for more information.
 
 ## My role
 I was a postdoc between April 2018 and March 2022 (see my [CV](/about_me/cv.qmd)). 

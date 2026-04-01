@@ -9,6 +9,7 @@ listing:
     fields: [image, title, description]
     contents: 
       - PPF-ALPINE/index.qmd
+      - GLACIMONTIS/index/qmd
       - GLOBAL-HUMAN-IMPACT/index.qmd
       - PANTROPICAL/index.qmd
       - FOSSILPOL/index.qmd

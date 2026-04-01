@@ -1,0 +1,34 @@
+---
+title: "GLACIMONTIS"
+categories: [project]
+image: "glacimontis_logo.jpeg"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 250px
+  links:
+    - icon: link
+      text: website
+      href: https://mountainsinmotion.w.uib.no/research/
+    - icon: github
+      text: Github
+      href: https://github.com/Mountains-in-Motion
+---
+
+::: {#hero-heading}
+
+**GLACIMONTIS** - GLACIMONTIS is an ongoing research project dedicated to understanding the extent of mountain glaciers during past cold periods, with a focus on the Last Glacial Maximum (~21,000 years ago) and the last glacial cycle (the last 130,000 years). The project reconstructs glaciers in mountains worldwide with cutting edge techniques and compiles paleoglacier reconstructions from published studies into a global open-access geodatabase, integrating geomorphological mapping, chronological data, and glacier modelling outputs. This resource allows researchers to analyse past ice cover at regional to global scales, refine climate and glacier models, and assess the role of glaciation in shaping mountain environments. Beyond compiling existing data, GLACIMONTIS also develops new reconstructions in poorly studied regions, advancing our understanding of past cryosphere–climate interactions. Financed by Trond Mohn Research Foundation – UIB (Norway)
+
+## My role
+Main PI
+
+### Our outputs:
+
+- Lima, A. C. N., Dulfer, H. E., Hughes, A. L. C., Margold, M., Barr, I., Laabs, B., & Flantua, S. G. A. 2026. Mountain Glacier Extents of the Last Glacial Maximum. Nature Scientific Data [![Badge](https://img.shields.io/badge/DOI-10.1111%2Fgeb.13693-yellow)](https://www.nature.com/articles/s41597-026-06841-z)
+
+
+:::
+
+
+

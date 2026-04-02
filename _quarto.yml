@@ -25,6 +25,14 @@ website:
             href: projects/PPF-ALPINE/index.qmd
           - text: "GLACIMONTIS"
             href: projects/GLACIMONTIS/index.qmd
+          - text: "CONNECT-EVOLVE"
+            href: projects/CONNECT-EVOLVE/index.qmd
+          - text: "ECO-SPACE"
+            href: projects/ECO-SPACE/index.qmd
+          - text: "GEO-BRIDGE"
+            href: projects/GEO-BRIDGE/index.qmd
+          - text: "Mini-Encyclopedia of the Paramo-book"
+            href: projects/PARAMO-BOOK/index.qmd
           - text: "Global Human Impact"
             href: projects/GLOBAL-HUMAN-IMPACT/index.qmd
           - text: "Pantropical Dynamics"

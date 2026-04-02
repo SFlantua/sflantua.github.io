@@ -1,0 +1,34 @@
+---
+title: "Connect-Evolve project"
+categories: [project]
+image: "connect_logo.jpg"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 250px
+
+---
+
+::: {#hero-heading}
+
+The páramo, a unique high-altitude ecosystem in the northern Andes, is home to some of the most diverse and rapidly evolving plant communities in the world. Our project investigates how past climate change and landscape connectivity have shaped the extraordinary biodiversity found here today. By combining expertise in ecology, evolutionary biology, and climate science, and using innovative modelling approaches alongside comprehensive plant datasets and their evolutionary trajectories, we aim to uncover the historical processes that drive species diversity in tropical mountain systems. The insights gained will not only help safeguard the páramo flora but also provide valuable tools for conserving other vulnerable mountain ecosystems worldwide. Financed by Czech Science Foundation (GACR). In collaboration with Charles University in Prague and Royal Botanical Garden Kew in London. 
+
+#### The Team
+
+Diana Libeth Vasquez Aparicio  - postdoc at the University of Bergen
+
+Suzette Flantua - Senior Researcher of University of Bergen
+
+Roswitha Schmickl - Scientific director of her research group at Charles University in Prague and the Institute of Botany of the Czech Academy of Sciences. 
+
+Carolina Tovar - Researcher at Royal Botanical Garden Kew
+
+-------------------------------------
+
+
+
+
+
+
+:::

@@ -1,0 +1,32 @@
+---
+title: "Drone-Willow-Bumblebee Project"
+categories: [project]
+image: "drone_bumblebee_logo.png"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 250px
+  links: 
+    - icon: website
+      text: Website
+      href: https://mountains-in-motion.github.io/drone-willow-bumblebee/
+
+---
+
+::: {#hero-heading}
+
+This pilot project explores how climate-driven shrub expansion affects alpine biodiversity and ecosystem dynamics. Using drone-based remote sensing and fieldwork at Finse (Norway), we map the density and spatial distribution of male and female willow shrubs (Salix spp.) and link these patterns to bumblebee abundance and pollination dynamics. 
+
+This project forms part of the Mountains in Motion Initiative, which investigates how mountain ecosystems respond to environmental change across spatial and temporal scales.
+
+
+#### The Team
+
+Led by Ørjan Totland (BIO-UiB) in collaboration with Suzette Flantua (BIO-UiB) and remote sensing researchers at the Dept of Earth Science (led by Ben Robson). 
+
+-------------------------------------
+
+
+
+:::

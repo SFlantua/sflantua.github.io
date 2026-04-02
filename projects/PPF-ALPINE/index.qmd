@@ -8,9 +8,6 @@ about:
   image-shape: round
   image-width: 250px
   links: 
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/PPFalpine
     - icon: website
       text: Website
       href: https://mountainsinmotion.w.uib.no/
@@ -25,9 +22,9 @@ about:
 
 [Eline Rentier](https://www.uib.no/en/persons/Eline.Rentier) and [Lotta Schultz](https://www.uib.no/en/persons/Lotta.Schultz) both joined the project as a PhD researchers since Jan 2023. Eline will work on modelling the spatiotemporal dynamics of global alpine biomes, while Lotta will focus on understanding the relationship between past environmental dynamics and present-day alpine biodiversity.
 
-Meanwhile, [Augusto Lima do Nascimento](https://mountainsinmotion.w.uib.no/team/) is working on paleoglacier reconstructions in mountains worldwide, making an open-access geodatabase of numerous papers from around the world. 
+Meanwhile, [Augusto Lima do Nascimento](https://mountainsinmotion.w.uib.no/team/) and [Sjur Barndon](https://mountainsinmotion.w.uib.no/team/) are working on paleoglacier reconstructions in mountains worldwide. 
 
-Together with [John-Arvid Grytnes](https://www.uib.no/en/persons/John.Arvid.Grytnes), [Ondřej Mottl](https://ondrejmottl.github.io/), and [Camila Pachego-Riaño](https://lacapary.github.io/) we are the PPF-Alpine team in Bergen, accompanied by our international group of collaborators.
+Together with [John-Arvid Grytnes](https://www.nmbu.no/om/ansatte/john-arvid-grytnes), [Ondřej Mottl](https://ondrejmottl.github.io/), and [Camila Pachego-Riaño](https://lacapary.github.io/) we are the PPF-Alpine team in Bergen, accompanied by our international group of collaborators.
 
-Follow us by twitter @PPFalpine and check out our website for information on the project and the team: [PPF-Alpine](https://mountainsinmotion.w.uib.no/)
+Check out our website for information on the project and the team: [PPF-Alpine](https://mountainsinmotion.w.uib.no/)
 :::

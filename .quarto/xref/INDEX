@@ -82,5 +82,20 @@
   },
   "projects/GLACIMONTIS/index.qmd": {
     "index.html": "6de1b97d"
+  },
+  "projects/CONNECT-EVOLVE/index.qmd": {
+    "index.html": "9ccede35"
+  },
+  "projects/DRONE-WILLOW-BUMBLEBEE/index.qmd": {
+    "index.html": "0a654c45"
+  },
+  "projects/ECO-SPACE/index.qmd": {
+    "index.html": "5e71f928"
+  },
+  "projects/GEOBRIDGE/index.qmd": {
+    "index.html": "a6cee2e1"
+  },
+  "projects/PARAMO-BOOK/index.qmd": {
+    "index.html": "e58ece4b"
   }
 }

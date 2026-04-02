@@ -1,0 +1,40 @@
+---
+title: "Children's book Paramo"
+categories: [project]
+image: "paramo_logo.png"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 250px
+  links:
+    - icon: link
+      text: website
+      href: https://mountainsinmotion.w.uib.no/outreach/collaboration/
+    - icon: link
+      text: website
+      href: https://laenciclopediadelparamo.com/en/
+---
+
+::: {#hero-heading}
+
+An interdisciplinary team that comprises artists, science communicators, evolutionary biologists, and ecologists has crafted a scientific children’s book, “La Minienciclopedia del Páramo”. This book, distributed free thanks to local institutions, blends art and science to educate about the alpine ecosystem in the high-elevation areas of the Northern Andes, across Venezuela, Colombia, and Ecuador. “La Minienciclopedia del Páramo” aims to share scientific knowledge for young minds across seven main chapters: 1) What is the “Páramo”?, 2) Why is it important?, 3) How did the Páramo originate?, 4) The plants, 5) The animals of the Páramo, 6) The threats of the ecosystem, and 7) How can we protect it?
+
+Last year we have distributed >1000s books this year and we are working on a translation to Dutch, English, and Norwegian. 
+
+Financed by Trond Mohn Research Foundation – UIB (Norway), Hugo de Vries Foundation (Netherlands), Olaf Grolle Olsens legat til Universitetet i Bergen (Norway)
+
+## The team
+
+Diana Libeth Vasquez Aparicio  - postdoc at the University of Bergen
+
+Suzette Flantua - Senior Researcher of University of Bergen
+
+Roswitha Schmickl - Scientific director of her research group at Charles University in Prague and the Institute of Botany of the Czech Academy of Sciences.
+
+
+
+:::
+
+
+

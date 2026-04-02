@@ -1,0 +1,40 @@
+---
+title: "GEOBRIDGE project"
+categories: [project]
+image: "geobridge_logo.png"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 250px
+
+---
+
+::: {#hero-heading}
+
+GEO-BRIDGE: UiB collaborative platform for GIS/RS methods in landscape analysis in a changing world
+Spatio-temporal analyses of landscape dynamics across the biosphere, geosphere, and cryosphere are crucial in tackling today’s global environmental challenges. From land use and cover changes to glacier retreat and vegetation shifts, Geographic Information Systems (GIS) and Remote Sensing (RS) offer essential tools for research and real-world problem-solving.
+
+We organize monthly seminar series by researchers and students from diverse academic backgrounds united by a shared interest in GIS and RS. Our network currently brings together researchers from the UIB, spanning the Departments of Earth Science, Biology, Geography, Physics, and Archaeology—representing three faculties. We are also proud to have established a strong collaborative partnership with the Theoretical and Computational Ecology group at the University of Amsterdam (UvA), expanding our reach and impact across institutions. Financed by Bergen University Funds.
+
+https://mountains-in-motion.github.io/geobridge/
+
+
+
+#### The Team
+
+University of Bergen:
+Suzette Flantua - Senior Researcher and PI
+
+Augusto Lima - Research Assistant
+
+Ben Robson - Associate Professor
+
+
+-------------------------------------
+
+
+
+
+
+:::

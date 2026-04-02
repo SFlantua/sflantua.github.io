@@ -1,0 +1,40 @@
+---
+title: "ECO-SPACE project"
+categories: [project]
+image: "ecospace_logo.png"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 250px
+
+---
+
+::: {#hero-heading}
+
+ECO-SPACE: Earth Observation and Geospatial Tools for Ecosystem and Environmental Management
+
+ECO-SPACE is a project aimed to our students at BIO and UiB to address a critical gap in Norway’s higher education: the lack of geospatial training for biology and environmental science students that integrates Universal Design (UD) principles. This project aims to develop educational material that will combine GIS, Remote Sensing, and spatial analysis with ecological and environmental applications, ensuring that students learn to create accessible, inclusive, and impactful geospatial products. A module-based framework will be built from BIO research projects, stakeholder case studies, and collaborations with national and international partners. ECO-SPACE will also serve as a platform for collaboration—through workshops with UiB researchers, stakeholders, and industry—in geospatial analysis and build capacity in UD and geospatial methods. In the long term, the project will contribute to national and international efforts to promote inclusive geospatial education for ecology and environmental management. In collaboration with STEM EDUCATION RESEARCH CENTER (CERC). Financed by HK-DIR 2025. 
+
+#### The Team
+
+University of Bergen:
+Suzette Flantua - Senior Researcher and PI
+
+Augusto Lima - Research Assistant
+
+Tabea Wein - Project Assistant
+
+Myrthe van Hecke - Project Assistant
+
+Maria Dunzendorfer - Intern
+
+-------------------------------------
+
+
+
+
+
+
+
+:::

@@ -9,11 +9,16 @@ editor: visual
 
 ### Peer reviewed publications and chapters
 
--   Lima, A. C. N., Dulfer, H. E., Hughes, A. L. C., Margold, M., Barr, I., Laabs, B., & **Flantua, S. G. A.** (2026) Mountain Glacier Extents of the Last Glacial Maximum. *Nature Scientific Data,* [Link](https://www.nature.com/articles/s41597-026-06841-z).
+-   Cadena, C. D., Pabón, L., Díaz-Salazar, A. F., Mendiwelso, M. E., Ocampo-Peñuela, N., Niño-Rodríguez,
+    N., Soto-Patiño, J., Seeholzer, G. F., **Flantua, S. G. A.**, Abueg, L., Balacco, J., Brajuka, N., Formenti, G., Tilley, T., Whelan, C., Jarvis, E. D., Smith, B. T., & Cuervo, A. M. **2026**. New genomic resources and the historical demography of the Tourmaline Sunangel (Trochilidae, ***Heliangelus exortis***) in the Colombian Andes. ***Journal of Heredity***, [Link.](https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esag016/8495783)
 
--   Barndon, S., Lima, A.C., D.M. Chandler, A.T. Wiersma, E.S. Rentier, R.P. Prats, S.G.A. Flantua (2026, Preprint) Global-scale modelling of mountain glacier evolution since the last interglacial.
+-   Lima, A. C. N., Dulfer, H. E., Hughes, A. L. C., Margold, M., Barr, I., Laabs, B., & **Flantua, S. G. A.** (2026) Mountain Glacier Extents of the Last Glacial Maximum. ***Nature Scientific Data**,* [Link](https://www.nature.com/articles/s41597-026-06841-z).
 
--   l, O., Gaiser, F., Šímová, I., & **Flantua, S. G. A.** (2026). VegVault database: Linking global paleo-, and neo-vegetation data with functional traits and abiotic drivers. *Nature Scientific Data,* [Link](https://doi.org/10.1101/2025.01.31.635213).
+-   Barndon, S., Lima, A.C., D.M. Chandler, A.T. Wiersma, E.S. Rentier, R.P. Prats, S.G.A. Flantua (2026, Preprint) Global-scale modelling of mountain glacier evolution since the last interglacial. [Link](https://zenodo.org/records/18195704).
+
+-   Mottl, O., Gaiser, F., Šímová, I., & **Flantua, S. G. A.** 2026. VegVault database: Linking global paleo-, and neo-vegetation data with functional traits and abiotic drivers. *Nature Scientific Data,* [Link](https://doi.org/10.1101/2025.01.31.635213).
+
+-   Felde\*, V. A., Mottl\*, O., **Flantua\*, S. G. A.**, Bhatta, K. P., Birks, H. H., Grytnes, J.-A., Hooghiemstra, H., Nogué, S., Reitalu, T., Seddon, A. W. R., Steinbauer, M. J., Braak, C. J. F. ter, Giesecke, T., Goring, S. J., Haberle, S. G., Herbert, A. V., Šmilauer, P., Tinner, W., Williams, J. W., ... Birks, H. J. B. (**2025**). Climate outweighs human effects on vegetation properties during the early-to-mid Holocene. *In review,* *Nature Communications Earth and Environment* (Research Square. [Link](https://doi.org/10.21203/rs.3.rs-4692574/v1) (\*shared first authors)
 
 -   Groeve, J. D., Rijsdijk, K. F., Rentier, E., **Flantua, S. G. A.**, & Norder, S. **2025.** Temporal Altitudinal Biogeographic Shifts (TABS): R package for reconstructing biogeographic shifts in terrestrial and marine habitats over time. ***Frontiers of Biogeography***, [Link](https://biogeography.pensoft.net/article/151677/)
 

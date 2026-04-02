@@ -23,6 +23,8 @@ website:
             href: projects/index.qmd
           - text: "PPF-Alpine"
             href: projects/PPF-ALPINE/index.qmd
+          - text: "GLACIMONTIS"
+            href: projects/GLACIMONTIS/index.qmd
           - text: "Global Human Impact"
             href: projects/GLOBAL-HUMAN-IMPACT/index.qmd
           - text: "Pantropical Dynamics"

@@ -31,8 +31,15 @@ website:
             href: projects/FOSSILPOL/index.qmd
           - text: "GEO-BRIDGE"
             href: projects/GEO-BRIDGE/index.qmd
+<<<<<<< HEAD
           - text: "GLACIMONTIS"
             href: projects/GLACIMONTIS/index.qmd
+=======
+          - text: "Mini-Encyclopedia of the Paramo-book"
+            href: projects/PARAMO-BOOK/index.qmd
+          - text: "BIODYNAMICS"
+            href: projects/BIODYNAMICS/index.qmd
+>>>>>>> 7bacf53b42f5a5719216bb458d80aaf13e2de7d0
           - text: "Global Human Impact"
             href: projects/GLOBAL-HUMAN-IMPACT/index.qmd
           - text: "Latin American Pollen Database"

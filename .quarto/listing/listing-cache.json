@@ -1,24 +1,23 @@
 {
   "listingMap": {
     "projects\\index.qmd": [
-      "PPF-ALPINE/index.qmd",
-      "GLACIMONTIS/index/qmd",
-      "GLOBAL-HUMAN-IMPACT/index.qmd",
-      "PANTROPICAL/index.qmd",
+      "BIODYNAMICS/index.qmd",
+      "CONNECT-EVOLVE/index.qmd",
+      "DRONE-WILLOW-BUMBLEBEE/index.qmd",
+      "ECO-SPACE/index.qmd",
       "FOSSILPOL/index.qmd",
+      "GEO-BRIDGE/index.qmd",
+      "GLACIMONTIS/index.qmd",
       "LAPD/index.qmd",
+      "PANTROPICAL/index.qmd",
+      "PARAMO-BOOK/index.qmd",
+      "PPF-ALPINE/index.qmd",
       "RRatepol/index.qmd",
       "RFossilpol/index.qmd",
       "REcopol/index.qmd",
       "RUtilpol/index.qmd",
-      "HOPE/index.qmd",
-      "GLACIMONTIS/index.qmd",
-      "CONNECT-EVOLVE/index.qmd",
-      "ECO-SPACE/index.qmd",
-      "GEO-BRIDGE/index.qmd",
-      "PARAMO-BOOK/index.qmd",
-      "DRONE-WILLOW-BUMBLEBEE/index.qmd",
-      "BIODYNAMICS/index.qmd"
+      "GLOBAL-HUMAN-IMPACT/index.qmd",
+      "HOPE/index.qmd"
     ],
     "talks\\index.qmd": [
       "talk_1",

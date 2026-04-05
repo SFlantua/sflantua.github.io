@@ -1,9 +1,9 @@
 ---
 title: "Suzette G.A. Flantua"
-image: "profile_flantua.jpg"
 about:
   id: hero-heading
   template: trestles
+  image: "images/profile_flantua.jpg"
   image-shape: rectangle
   links:
     - icon: google-scholar
@@ -17,11 +17,11 @@ about:
       href: https://orcid.org/0000-0001-6526-3037
     - icon: website
       text: Website
-      href: www.https://mountainsinmotion.w.uib.no/
+      href: https://mountainsinmotion.w.uib.no/
     - icon: researchgate
       text: Researchgate
       href: https://www.researchgate.net/profile/Suzette-Flantua?ev=hdr_xprf
-    - icon: website
+    - icon: bluesky
       text: Bluesky
       href: https://bsky.app/profile/suzetteflantua.bsky.social
 

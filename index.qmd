@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0001-6526-3037
     - icon: website
       text: Website
-      href: https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua
+      href: www.https://mountainsinmotion.w.uib.no/
     - icon: researchgate
       text: Researchgate
       href: https://www.researchgate.net/profile/Suzette-Flantua?ev=hdr_xprf
@@ -39,7 +39,7 @@ My research focuses on the responses of biodiversity to past and future climate 
 
 ### Contact me!
 
-Feel free to reach out to me at my [UiB email](https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua) or gmail with the naming of s.g.a.flantua
+Feel free to reach out to me at my [UiB email](https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua) or gmail with the naming of s.g.a.flantua...
 
 
 ### Affiliations

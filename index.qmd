@@ -21,7 +21,11 @@ about:
     - icon: researchgate
       text: Researchgate
       href: https://www.researchgate.net/profile/Suzette-Flantua?ev=hdr_xprf
-      
+    - icon: website
+      text: Bluesky
+      href: https://bsky.app/profile/suzetteflantua.bsky.social
+
+            
 ---
 
 ::: {#hero-heading}

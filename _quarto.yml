@@ -33,6 +33,8 @@ website:
             href: projects/GEO-BRIDGE/index.qmd
           - text: "Mini-Encyclopedia of the Paramo-book"
             href: projects/PARAMO-BOOK/index.qmd
+          - text: "BIODYNAMICS"
+            href: projects/BIODYNAMICS/index.qmd
           - text: "Global Human Impact"
             href: projects/GLOBAL-HUMAN-IMPACT/index.qmd
           - text: "Pantropical Dynamics"

@@ -1,0 +1,47 @@
+---
+title: "BIODYNAMICS"
+categories: [project]
+image: "biodynamics_logo.png"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 250px
+  links:
+    - icon: link
+      text: website
+      href: https://ondrejmottl.github.io/projects/BIODYNAMICS/
+
+---
+
+::: {#hero-heading}
+
+The BIODYNAMICS project aims to address the need for predicting biodiversity and ecosystem alteration under global climate change. Life scientists need to be able to predict biodiversity and ecosystem alteration under global climate change. However, scenarios able to predict biodiversity trajectories are wishful thinking as biotic interactions in novel environments or among newly coexisting species are not sufficiently understood. By investigating local processes of species interactions, BIODYNAMICS will contribute crucial insights into how these interactions shape continental and global biodiversity patterns over the past 20 thousand years (ka). BIODYNAMICS will develop innovative approaches that allow estimating ecosystem functioning, especially the essential biotic interactions, at 3 major ecological scales (spatial, temporal, and taxonomic), spanning from individual plants in local sites to whole continents and from 20 ka to the present.
+
+It will do so using a newly compiled publicly available multidisciplinary database that integrates present and past global vegetation records with their functional traits and climate data. This database will serve as a valuable resource for advancing knowledge in eco-informatics, community ecology, climatology, and paleo- and neo-ecology.
+
+A key aspect of BIODYNAMICS is to utilize insights from the past to inform future predictions of global biodiversity patterns, which are anticipated to be influenced by anthropogenic climate change. By fostering interdisciplinary cooperation between these scientific disciplines, the project aims to enhance our understanding and quantification of biotic interactions in both historical and contemporary contexts. These insights will be instrumental in predicting ecological responses to global change, thereby ensuring the preservation of ecosystem services that are essential for our society.
+
+## The team
+
+Leading PI: Ondrej Mottl [Personal website](https://ondrejmottl.github.io/)
+
+Core collaborators: 
+- Suzette Flantua, Senior Researcher, University of Bergen
+- Frank Gaiser, PhD Student, University of Bayreuth
+- Irena Šímová, Researcher, Charles University
+
+## Key project outputs
+
+VegVault
+VegVault is a database that links global paleo-, and neo-vegetation data with functional traits and abiotic drivers. The database is a valuable resource for advancing knowledge in eco-informatics, community ecology, climatology, and paleo- and neo-ecology.
+
+[Official website](https://ondrejmottl.github.io/VegVault/)
+
+[Mottl et al. 2025, Nature Scientific Data](https://www.nature.com/articles/s41597-025-06176-1)
+
+
+:::
+
+
+

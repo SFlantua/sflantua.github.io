@@ -12,7 +12,13 @@
       "REcopol/index.qmd",
       "RUtilpol/index.qmd",
       "HOPE/index.qmd",
-      "GLACIMONTIS/index.qmd"
+      "GLACIMONTIS/index.qmd",
+      "CONNECT-EVOLVE/index.qmd",
+      "ECO-SPACE/index.qmd",
+      "GEO-BRIDGE/index.qmd",
+      "PARAMO-BOOK/index.qmd",
+      "DRONE-WILLOW-BUMBLEBEE/index.qmd",
+      "BIODYNAMICS/index.qmd"
     ],
     "talks\\index.qmd": [
       "talk_1",

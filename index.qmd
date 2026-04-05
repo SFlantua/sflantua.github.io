@@ -3,7 +3,7 @@ title: "Suzette G.A. Flantua"
 about:
   id: hero-heading
   template: trestles
-  image: "images/profile_flantua.jpg"
+  image: about_me/profile_flantua.jpg
   image-shape: rectangle
   links:
     - icon: google-scholar
@@ -12,7 +12,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/SFlantua
-    - icon: ORCID
+    - icon: orcid
       text: ORCID
       href: https://orcid.org/0000-0001-6526-3037
     - icon: website
@@ -24,8 +24,6 @@ about:
     - icon: bluesky
       text: Bluesky
       href: https://bsky.app/profile/suzetteflantua.bsky.social
-
-            
 ---
 
 ::: {#hero-heading}

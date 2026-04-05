@@ -9,16 +9,21 @@
   {
     "listing": "/projects/index.html",
     "items": [
-      "/projects/PPF-ALPINE/index.html",
-      "/projects/GLACIMONTIS/index.html",
-      "/projects/GLOBAL-HUMAN-IMPACT/index.html",
-      "/projects/PANTROPICAL/index.html",
+      "/projects/BIODYNAMICS/index.html",
+      "/projects/CONNECT-EVOLVE/index.html",
+      "/projects/DRONE-WILLOW-BUMBLEBEE/index.html",
+      "/projects/ECO-SPACE/index.html",
       "/projects/FOSSILPOL/index.html",
+      "/projects/GLACIMONTIS/index.html",
       "/projects/LAPD/index.html",
+      "/projects/PANTROPICAL/index.html",
+      "/projects/PARAMO-BOOK/index.html",
+      "/projects/PPF-ALPINE/index.html",
       "/projects/RRatepol/index.html",
       "/projects/RFossilpol/index.html",
       "/projects/REcopol/index.html",
       "/projects/RUtilpol/index.html",
+      "/projects/GLOBAL-HUMAN-IMPACT/index.html",
       "/projects/HOPE/index.html"
     ]
   }

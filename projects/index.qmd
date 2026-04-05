@@ -8,12 +8,18 @@ listing:
     image-height: 200px
     fields: [image, title, description]
     contents: 
-      - PPF-ALPINE/index.qmd
+      - BIODYNAMICS/index.qmd
+      - CONNECT-EVOLVE/index.qmd
+      - DRONE-WILLOW-BUMBLEBEE/index.qmd            
+      - ECO-SPACE/index.qmd
+      - FOSSILPOL/index.qmd      
+      - GEO-BRIDGE/index.qmd
       - GLACIMONTIS/index.qmd
-      - GLOBAL-HUMAN-IMPACT/index.qmd
-      - PANTROPICAL/index.qmd
-      - FOSSILPOL/index.qmd
       - LAPD/index.qmd
+      - PANTROPICAL/index.qmd
+      - PARAMO-BOOK/index.qmd
+      - PPF-ALPINE/index.qmd
+
     sort: "false" 
     type: grid
     grid-item-border: false
@@ -36,6 +42,7 @@ listing:
     image-height: 200px
     fields: [image, title, description]
     contents: 
+      - GLOBAL-HUMAN-IMPACT/index.qmd
       - HOPE/index.qmd
     sort: "false" 
     type: grid

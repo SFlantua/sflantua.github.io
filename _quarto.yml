@@ -21,26 +21,28 @@ website:
         menu:
           - text: "Overview of projects"
             href: projects/index.qmd
-          - text: "PPF-Alpine"
-            href: projects/PPF-ALPINE/index.qmd
-          - text: "GLACIMONTIS"
-            href: projects/GLACIMONTIS/index.qmd
+          - text: "BIODYNAMICS"
+            href: projects/BIODYNAMICS/index.qmd
           - text: "CONNECT-EVOLVE"
             href: projects/CONNECT-EVOLVE/index.qmd
           - text: "ECO-SPACE"
             href: projects/ECO-SPACE/index.qmd
+          - text: "FOSSILPOL"
+            href: projects/FOSSILPOL/index.qmd
           - text: "GEO-BRIDGE"
             href: projects/GEO-BRIDGE/index.qmd
-          - text: "Mini-Encyclopedia of the Paramo-book"
-            href: projects/PARAMO-BOOK/index.qmd
+          - text: "GLACIMONTIS"
+            href: projects/GLACIMONTIS/index.qmd
           - text: "Global Human Impact"
             href: projects/GLOBAL-HUMAN-IMPACT/index.qmd
-          - text: "Pantropical Dynamics"
-            href: projects/PANTROPICAL/index.qmd
           - text: "Latin American Pollen Database"
             href: projects/LAPD/index.qmd
-          - text: "Fossilpol"
-            href: projects/FOSSILPOL/index.qmd
+          - text: "Mini-Encyclopedia of the Paramo-book"
+            href: projects/PARAMO-BOOK/index.qmd
+          - text: "Pantropical Dynamics"
+            href: projects/PANTROPICAL/index.qmd
+          - text: "PPF-Alpine"
+            href: projects/PPF-ALPINE/index.qmd
       - text: "My Publications"
         menu:
           - text: "List of publications"

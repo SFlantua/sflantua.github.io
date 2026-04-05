@@ -8,9 +8,6 @@ about:
   image-shape: round
   image-width: 250px
   links: 
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/LAPollenDB
     - icon: website
       text: Website
       href: https://www.latinamericapollendb.com/
